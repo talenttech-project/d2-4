@@ -1,0 +1,189 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.950
+Wearable sensors for monitoring, health and injury prevention. D2.4 Implementation
+Guide · Video 3 of 4 · Chapter 4.
+
+2
+00:00:06.000 --> 00:00:16.288
+What wearable sensors measure. A GPS vest holds a small unit on the upper back: GPS
+for distance and speed outdoors, motion sensors for accelerations and impacts, also
+
+3
+00:00:16.338 --> 00:00:18.950
+indoors. A chest strap measures heart rate.
+
+4
+00:00:19.000 --> 00:00:28.485
+Small-academy option. No sensors yet? Start with session-RPE: each player rates how
+hard the session was from 0 to 10. Multiply by the minutes. Validated, and costs
+
+5
+00:00:28.535 --> 00:00:28.950
+nothing.
+
+6
+00:00:29.000 --> 00:00:38.985
+Before you start. Numbered GPS units, vests in the right sizes, a charging dock.
+Heart-rate straps (optional). A laptop or tablet with the software and the player
+
+7
+00:00:39.035 --> 00:00:42.950
+list. A data protection check: wearable data can be health data.
+
+8
+00:00:43.000 --> 00:00:45.950
+Once, before the first session.
+
+9
+00:00:46.000 --> 00:00:53.950
+Step 1. Choose a system and check its test report. FIFA's EPTS quality programme
+lists tested providers with a public test report.
+
+10
+00:00:54.000 --> 00:01:03.538
+Step 2. Give each player their own numbered unit. The same unit every session keeps
+a player's data comparable over time. Check: The player list shows one unit per
+
+11
+00:01:03.588 --> 00:01:03.950
+player.
+
+12
+00:01:04.000 --> 00:01:12.950
+Step 3. Enter each player's measured maximum heart rate. From a field test agreed
+with your medical staff. An age-based estimate can be wrong for an individual.
+
+13
+00:01:13.000 --> 00:01:18.950
+Step 4. Write down your speed zones and keep them all season. Changing zones mid-
+season breaks comparisons.
+
+14
+00:01:19.000 --> 00:01:25.950
+Step 5. Record the unit model and firmware version in your log. A dated note
+explains a sudden jump.
+
+15
+00:01:26.000 --> 00:01:28.950
+Before every session.
+
+16
+00:01:29.000 --> 00:01:32.950
+Step 6. Charge units and straps the day before. Follow your manual.
+
+17
+00:01:33.000 --> 00:01:40.950
+Step 7. Create the session in the software and split it into drills. Same naming
+pattern every time: date – age group – session type.
+
+18
+00:01:41.000 --> 00:01:51.804
+Step 8. Fit the vest tightly so the unit sits on the upper back. A loose unit
+bounces and adds false accelerations. Check: The unit does not move when the player
+
+19
+00:01:51.854 --> 00:01:52.950
+jogs on the spot.
+
+20
+00:01:53.000 --> 00:01:59.950
+Step 9. Switch units on outdoors and wait for satellite lock. Away from buildings.
+Waiting times differ by brand.
+
+21
+00:02:00.000 --> 00:02:03.450
+Figure 4.1  Session setup. 1  Name the session the same way every time.
+
+22
+00:02:03.500 --> 00:02:06.950
+Figure 4.1  Session setup. 2  Split it into drills.
+
+23
+00:02:07.000 --> 00:02:10.450
+Figure 4.1  Session setup. 3  One unit per player.
+
+24
+00:02:10.500 --> 00:02:13.950
+Figure 4.1  Session setup. 4  Check signal and battery before you start.
+
+25
+00:02:14.000 --> 00:02:16.950
+After every session.
+
+26
+00:02:17.000 --> 00:02:24.950
+Step 10. Download the data and check signal quality. Mark sessions with poor signal
+and do not compare them with normal sessions.
+
+27
+00:02:25.000 --> 00:02:29.950
+Step 11. Label indoor sessions as "indoor". GPS distance and speed are not reliable
+indoors.
+
+28
+00:02:30.000 --> 00:02:37.950
+Step 12. Ask each player for a session-RPE rating. "How hard was the whole session?"
+(0–10) × minutes. Example: 4 × 87 = 348 arbitrary units.
+
+29
+00:02:38.000 --> 00:02:44.950
+Step 13. Put units back on charge and store the data safely. Only named staff should
+see the data.
+
+30
+00:02:45.000 --> 00:02:52.735
+Interpreting wearable data. Wearable numbers are estimates with a margin of error.
+Compare like with like: not across brands or systems. Ask how a brand's own load
+
+31
+00:02:52.785 --> 00:03:00.472
+score is calculated. Read youth data in light of age, growth stage and fitness.
+Compare planned intensity with what players report. Do not treat numbers as injury
+
+32
+00:03:00.522 --> 00:03:00.950
+forecasts.
+
+33
+00:03:01.000 --> 00:03:10.961
+Watch out: the acute:chronic workload ratio. Do not use the ACWR as a red flag for
+injury. Researchers found conceptual and statistical problems with it and
+
+34
+00:03:11.011 --> 00:03:12.950
+recommended that it be dropped.
+
+35
+00:03:13.000 --> 00:03:23.165
+In the training week. Same routine every time: charge, fit, lock, record, download,
+check. A short report soon after the session: a few numbers and one clear message.
+
+36
+00:03:23.215 --> 00:03:24.950
+One data owner, and a backup.
+
+37
+00:03:25.000 --> 00:03:33.075
+Common problems. Distance and speed missing or far too low: Check the session
+profile; switch on outdoors and wait for lock. Heart-rate strap shows no signal: Wet
+
+38
+00:03:33.125 --> 00:03:40.950
+the electrodes, tighten the strap, pair again. Sudden change in all players'
+numbers: Check your log for an update or changed zones. All problems: Table 4.1.
+
+39
+00:03:41.000 --> 00:03:50.130
+Quick start by role. Coach: Plan intensity (easy, medium, hard) for each drill.
+Scout: Never rank players on one physical number alone. Performance staff: Check
+
+40
+00:03:50.180 --> 00:03:54.950
+signal quality after every session. Academy manager: Name a data owner and a backup.
+
+41
+00:03:55.000 --> 00:04:03.950
+Full steps, checklists and sources. D2.4 Implementation Guide, chapter 4, and Annex
+A (printable checklists). Licensed under CC BY-SA 4.0. Funded by the European Union.

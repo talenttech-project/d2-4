@@ -1,0 +1,190 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.950
+AI tools for scouting and player evaluation. D2.4 Implementation Guide · Video 2 of
+4 · Chapter 3.
+
+2
+00:00:06.000 --> 00:00:16.641
+What an AI scouting tool does. It learns patterns from past data, for example which
+players an academy selected in earlier seasons, and applies them to new players. Its
+
+3
+00:00:16.691 --> 00:00:19.950
+output is usually a score, a ranking or a shortlist.
+
+4
+00:00:20.000 --> 00:00:28.798
+Two limits matter most. Even a well-built model predicts only moderately well: the
+best model in a German academy reached an AUC of 0.69 (0.5 = chance, 1.0 = perfect).
+
+5
+00:00:28.848 --> 00:00:35.950
+Most published models have not been tested on outside data. A tool trained on past
+selections can learn the biases in those selections.
+
+6
+00:00:36.000 --> 00:00:44.950
+Small-academy option. No AI tool? Use a structured scouting template: the same five
+to eight criteria, scored the same way, for every player.
+
+7
+00:00:45.000 --> 00:00:54.032
+Before you start. A written problem statement and a named data owner. Player
+records: code, date of birth, position, assessments. A data protection check
+
+8
+00:00:54.082 --> 00:00:57.950
+(scoring minors may need a DPIA). Access to the tool and a laptop.
+
+9
+00:00:58.000 --> 00:01:00.950
+Once, before the first season.
+
+10
+00:01:01.000 --> 00:01:10.774
+Step 1. Ask the supplier three questions in writing. How was the model validated? On
+how many players? On data from another club or season? Check: You have the answers
+
+11
+00:01:10.824 --> 00:01:11.950
+on file, in writing.
+
+12
+00:01:12.000 --> 00:01:20.950
+Step 2. Check what the tool actually does. Face recognition, emotion recognition or
+other biometric functions bring stricter rules. Ask your DPO before you buy.
+
+13
+00:01:21.000 --> 00:01:28.950
+Step 3. Give staff a short AI-literacy briefing (about 30 minutes). Cover what the
+score is, what it is not, and who decides.
+
+14
+00:01:29.000 --> 00:01:38.933
+Step 4. Set up player records with a code, date of birth and, where you can, a
+maturity estimate. Without them you cannot check the tool for relative age and
+
+15
+00:01:38.983 --> 00:01:39.950
+maturation bias.
+
+16
+00:01:40.000 --> 00:01:47.950
+Step 5. Write a one-line definition for every data field. A GPS sprint speed and a
+stopwatch sprint speed are different numbers.
+
+17
+00:01:48.000 --> 00:01:54.950
+Step 6. Record the tool version and the date in your log. When the supplier updates
+the model, scores can shift.
+
+18
+00:01:55.000 --> 00:01:57.950
+Every scouting cycle.
+
+19
+00:01:58.000 --> 00:02:03.950
+Step 7. Enter or import the new assessments. Soon after each observation, the same
+way every time.
+
+20
+00:02:04.000 --> 00:02:12.950
+Step 8. Check data completeness before you look at any score. A high score on a
+half-empty record is not comparable with one on a complete record.
+
+21
+00:02:13.000 --> 00:02:22.424
+Step 9. Generate the shortlist and send it to a named scout. The tool only screens.
+A person reviews every flagged case and takes the decision. Check: Each player on
+
+22
+00:02:22.474 --> 00:02:24.950
+the shortlist has a recorded human decision.
+
+23
+00:02:25.000 --> 00:02:33.950
+Step 10. Once a season, compare the shortlist by birth quarter and maturity status.
+If early-born or early-maturing players dominate, the tool may be reproducing bias.
+
+24
+00:02:34.000 --> 00:02:37.450
+Figure 3.1  A shortlist screen. 1  The score is one input, not a decision.
+
+25
+00:02:37.500 --> 00:02:40.950
+Figure 3.1  A shortlist screen. 2  Low data completeness lowers trust in the score.
+
+26
+00:02:41.000 --> 00:02:44.450
+Figure 3.1  A shortlist screen. 3  Check scores by birth quarter.
+
+27
+00:02:44.500 --> 00:02:47.950
+Figure 3.1  A shortlist screen. 4  A named scout records the human decision.
+
+28
+00:02:48.000 --> 00:02:58.628
+Interpreting AI outputs (1/2). A score is one input. The data narrows the choice and
+people decide. Missing data is a hidden bias. Check whose data is absent. Check for
+
+29
+00:02:58.678 --> 00:03:02.950
+the relative age effect: early-born players are more often selected.
+
+30
+00:03:03.000 --> 00:03:12.523
+Interpreting AI outputs (2/2). Maturation is a separate bias. Check outputs by birth
+quarter and by maturity status. Ask about calibration. If the supplier cannot
+
+31
+00:03:12.573 --> 00:03:15.950
+explain it, treat the number as a rank, not a probability.
+
+32
+00:03:16.000 --> 00:03:26.187
+Watch out: automated decisions about children. Do not let the tool decide on its own
+whether a young player is selected or released. A qualified person reviews the
+
+33
+00:03:26.237 --> 00:03:28.950
+evidence, takes the decision and records it.
+
+34
+00:03:29.000 --> 00:03:39.769
+In the weekly routine. Let the tool narrow 60 names to 15, then watch those 15 live.
+One weekly shortlist review (about 20 minutes) on MD-2. One line per player to
+
+35
+00:03:39.819 --> 00:03:43.950
+coaches: "Flagged by the tool; watched twice; invite to trial."
+
+36
+00:03:44.000 --> 00:03:51.110
+Common problems. Shortlist is almost all early-born players: Run the birth-quarter
+check (step 10); review late-born players manually. Scores changed for everyone
+
+37
+00:03:51.160 --> 00:03:58.491
+overnight: Check your log (step 6); do not compare across the update. A player with
+little data has a high score: Check completeness (step 8); do not act on incomplete
+
+38
+00:03:58.541 --> 00:03:59.950
+records. All problems: Table 3.1.
+
+39
+00:04:00.000 --> 00:04:09.198
+Quick start by role. Coach: Never cut or promote a player on a score alone. Scout:
+Record a decision for every flagged player, every week. Performance staff: Supply
+
+40
+00:04:09.248 --> 00:04:14.950
+birth dates and maturity estimates. Academy manager: Get the supplier's validation
+answers in writing.
+
+41
+00:04:15.000 --> 00:04:23.950
+Full steps, checklists and sources. D2.4 Implementation Guide, chapter 3, and Annex
+A (printable checklists). Licensed under CC BY-SA 4.0. Funded by the European Union.
